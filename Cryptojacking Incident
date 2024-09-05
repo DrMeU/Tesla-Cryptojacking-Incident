@@ -1,0 +1,34 @@
+**Slide 1: Attack Category & Statistics**
+
+- **Attack Category:** Cryptojacking
+- **Statistics:** In 2017, cryptojacking attacks increased by 8,500% compared to 2016. By 2018, over 42% of organizations had experienced a cryptojacking attack (Source: [Malwarebytes](https://blog.malwarebytes.com/cybercrime/2018/09/cryptojacking-still-on-the-rise-malwarebytes-q2-2018-malware-report/)).
+
+**Slide 2: Company & Incident Summary**
+
+- **Company:** Tesla
+- **Incident Summary:** In 2018, Tesla's cloud environment was exploited by cryptojackers, who used unauthorized computing power to mine cryptocurrency (Source: [Tesla](https://www.tesla.com/blog/tesla-cloud-environment-targeted-crypto-mining-activity)).
+
+**Slide 3: Timeline**
+
+1. **2018, February:** Unauthorized access to Tesla's cloud environment is detected.
+2. **2018, February:** Tesla's security team responds and mitigates the threat.
+3. **2018, March:** Tesla notifies law enforcement and launches an investigation.
+4. **2018, April:** Tesla completes the investigation and implements additional security measures.
+5. **2018, May:** Tesla discovers that the threat actors gained access using stolen credentials.
+6. **2018, June:** Tesla confirms that no customer or company data was accessed or exfiltrated.
+
+**Slide 4: Vulnerabilities**
+
+1. **Weak Passwords:** The threat actors gained access using stolen credentials with weak passwords.
+2. **Lack of Multi-Factor Authentication (MFA):** Tesla's cloud environment did not have MFA enabled for all accounts.
+3. **Insufficient Monitoring:** The unauthorized activity went undetected for some time due to insufficient monitoring.
+4. **Unpatched Systems:** Some systems in the cloud environment were not up-to-date with the latest security patches.
+
+**Slide 5: Costs & Prevention Steps**
+
+- **Costs:** Tesla did not disclose the financial impact of the attack. However, the cost could include investigation, remediation, and potential downtime (Source: [IBM](https://www.ibm.com/security/data-breach)).
+- **Prevention Steps:**
+  - Enforce strong, unique passwords and MFA for all accounts.
+  - Implement strict access controls and privileged account management.
+  - Enhance monitoring and detection capabilities.
+  - Regularly patch and update systems.
