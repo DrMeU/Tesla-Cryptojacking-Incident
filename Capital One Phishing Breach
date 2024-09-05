@@ -1,0 +1,35 @@
+**Slide 1: Attack Category & Statistics**
+
+- **Attack Category:** Phishing
+- **Statistics:** According to the FBI's Internet Crime Report 2020, phishing was the most reported crime type, with over 241,000 victims and losses exceeding $43 billion (Source: [FBI](https://www.ic3.gov/Media/Library/Publications/AnnualReport/2020_IC3Report.pdf)).
+
+**Slide 2: Company & Incident Summary**
+
+- **Company:** Capital One
+- **Incident Summary:** In 2019, Capital One experienced a data breach resulting from a compromised web application firewall (WAF) that exposed sensitive customer data (Source: [Capital One](https://www.capitalone.com/about-one/news-and-press/2019/july/capital-one-discloses-unauthorized-access-to-some-of-our-customers-personal-information/)).
+
+**Slide 3: Timeline**
+
+1. **2019, March:** A malicious actor gains access to Capital One's WAF configuration and exploits a vulnerability to access customer data.
+2. **2019, July 17:** Capital One discovers the unauthorized access and mitigates the threat.
+3. **2019, July 29:** Capital One notifies customers and regulatory bodies about the breach.
+4. **2019, August:** Capital One launches an investigation and implements additional security measures.
+5. **2019, September:** Capital One completes the investigation and notifies remaining customers.
+6. **2019, December:** The alleged attacker is arrested and charged with computer fraud and abuse.
+
+**Slide 4: Vulnerabilities**
+
+1. **Misconfiguration:** The WAF was misconfigured, allowing the attacker to access sensitive data.
+2. **Lack of Input Validation:** The web application did not properly validate and sanitize user input, leading to unauthorized access.
+3. **Weak Access Controls:** Capital One's access controls were insufficient to prevent unauthorized access to sensitive data.
+4. **Insufficient Monitoring:** The unauthorized access went undetected for some time due to insufficient monitoring and logging.
+
+**Slide 5: Costs & Prevention Steps**
+
+- **Costs:** Capital One estimated the cost of the breach to be between $100 million and $150 million, including customer notification, investigation, remediation, and potential fines (Source: [Capital One](https://www.capitalone.com/about-one/news-and-press/2019/july/capital-one-discloses-unauthorized-access-to-some-of-our-customers-personal-information/)).
+- **Prevention Steps:**
+  - Implement strict access controls and least privilege principle.
+  - Regularly review and update WAF and other security configurations.
+  - Enforce input validation and sanitization in web applications.
+  - Enhance monitoring and detection capabilities.
+  - Regularly conduct penetration testing and vulnerability assessments.
